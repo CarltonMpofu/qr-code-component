@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution](https://your-solution-url.com)
+- Live Site URL: [My live site](https://carltonmpofu.github.io/qr-code-component/)
 
 ## My process
 
@@ -33,6 +33,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@CarltonMpofu](https://www.frontendmentor.io/profile/CarltonMpofu)
